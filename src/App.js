@@ -9,8 +9,8 @@ export default function App(){
   return(
     <div className="App">
     <Searching/>
-    {/* <Header />
-      <Body /> */}
+     <Header />
+      <Body /> 
     </div>
   );
 }
