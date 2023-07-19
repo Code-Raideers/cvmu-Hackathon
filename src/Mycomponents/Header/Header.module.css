@@ -22,7 +22,7 @@
   
   .heading span {
     font-size: 3.2rem;
-    background-clip: text;
+     background-clip: text; 
     background-image: linear-gradient(to right, #239ce2, #1369b9);
     color: transparent;
   }
